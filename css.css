@@ -124,7 +124,7 @@
             text-align: center;
             padding-top: 80px;
             position: relative;
-            background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)) ,url(../Pagina-invernadero/Imagenes-pagina/inver-outdor.webp);
+            background-image:linear-gradient(rgba(0, 0, 0, 0.6), rgba(0, 0, 0, 0.6)) ,url(inver-outdor.webp);
             background-position: center;
             background-repeat: no-repeat;
             background-size: cover;
